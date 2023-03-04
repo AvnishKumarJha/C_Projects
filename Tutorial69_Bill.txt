@@ -1,1 +1,0 @@
-Welcome to the shop. Thanks {{Name}} for purchasing {{Item}} from our Company {{Company}}. Please visit our Company {{Company}} for any kind of problems. We plan to server you again soon.
